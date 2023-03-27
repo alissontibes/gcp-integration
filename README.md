@@ -25,7 +25,7 @@ To run this script, you will need the following:-
     - Dome9 **API key**
     - Dome9 **API secret**
     
-4) Run **git clone https://github.com/christiancastilloporras/gcp-autoonboarding-d9.git**
+4) Run **git clone https://github.com/alissontibes/gcp-integration.git**
 
 5) Run **python -m venv gcp-autoonboarding-d9**
 
